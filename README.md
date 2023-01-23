@@ -3,7 +3,7 @@
   
   ## Description
 
-  This is a Node.js app that allows users to quickly and easily generate a README.md file for their repositories by answering a set of questions. Details such as project description, table of contents, technologies, app usage, installation, licencing, contributions, and questions will be found in the generated README file.
+  This is a Node.js app that allows users to quickly and easily generate a README.md file for their repositories by answering a set of questions. Details such as project description, table of contents, technologies, app usage, installation, licensing, contributions, and questions will be found in the generated README file.
 
   ### Table of contents
 
@@ -48,8 +48,11 @@
   ## Contributing
 
   Do you have any suggestions? To contribute to this repo, follow the nest few steps:
-  1. Fork the project (https://github.com/agh911/readme-generator)
-  2. Create a new branch - `git checout -b feature/branch_name`<br>  3. Commit your code on a separate branch - `git commit -m 'adds new feature'`<br> 4. Push to the branch - `git push origin feature/branch_name`<br> 5. Open a new Pull Request
+  1. Fork the project (https://github.com/agh911/readme-generator)<br>
+  2. Create a new branch - `git checout -b feature/branch_name`<br>
+  3. Commit your code on a separate branch - `git commit -m 'adds new feature'`<br>
+  4. Push to the branch - `git push origin feature/branch_name`<br>
+  5. Open a new Pull Request
   
   I will do my best to review your suggestion(s) in due time and merge it if all is well.
 

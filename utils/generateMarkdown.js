@@ -41,8 +41,6 @@ function generateMarkdown(data) {
   The following shows the application's functionality:
   ![App demo](${data.usage})
 
-  Navigate to a more thorough demonstration by clicking [this link](link) which will take you to a video. 
-
   ## License
 
   This project is licensed under the ${data.license} License.
