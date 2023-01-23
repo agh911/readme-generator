@@ -49,7 +49,7 @@
 
   Do you have any suggestions? To contribute to this repo, follow the nest few steps:
   1. Fork the project (https://github.com/agh911/readme-generator)
-  2. Create a new branch - `git checout -b feature/branch_name`  3. Commit your code on a separate branch - `git commit -m 'adds new feature'`  4. Push to the branch - `git push origin feature/branch_name`  5. Open a new Pull Request
+  2. Create a new branch - `git checout -b feature/branch_name`<br>  3. Commit your code on a separate branch - `git commit -m 'adds new feature'`<br> 4. Push to the branch - `git push origin feature/branch_name`<br> 5. Open a new Pull Request
   
   I will do my best to review your suggestion(s) in due time and merge it if all is well.
 
