@@ -3,7 +3,7 @@
   
   ## Description
 
-  This is a Node.js app that allows users to quickly and easily generate a README.md file for their repositories by answering a set of questions. Details such as project description, table of contents, technologies, app usage, installation, licensing, contributions, and questions will be found in the generated README file.
+  This is an app built using Node.js that allows users to quickly and easily generate a README.md file for their repositories by answering a set of questions. Details such as project description, table of contents, technologies, app usage, installation, licensing, contributions, and questions will be found in the generated README file.
 
   ### Table of contents
 
