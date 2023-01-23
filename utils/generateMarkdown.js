@@ -20,8 +20,7 @@ function generateMarkdown(data) {
   ## Technologies
 
   This project is created with:
-  
-  ${data.technologies}
+  * ${data.technologies}
 
   ## Installation
   
@@ -39,7 +38,10 @@ function generateMarkdown(data) {
 
   ## Usage
 
-  ${data.usage}
+  The following shows the application's functionality:
+  ![App demo](${data.usage})
+
+  Navigate to a more thorough demonstration by clicking [this link](link) which will take you to a video. 
 
   ## License
 
@@ -67,6 +69,7 @@ function generateMarkdown(data) {
 
   If you have any questions about this repository, open an issue or contact me directly at [${data.email}](mailto:${data.email}). You can find more of my work at [${data.githubName}](https://github.com/${data.githubName}).
 
+  #### [Back to top](#description)
   ---
   Copyright © 2023, ${data.fullName}
 `;

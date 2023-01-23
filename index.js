@@ -44,7 +44,7 @@ const questions = [
         type: "checkbox",
         name: "technologies",
         message: "What are the technologies you have used in this project?",
-        choices: ['HTML5', 'CSS3', 'Bootstrap', 'JavaScript', 'jQuery', 'Node.js', 'React', 'Express.js']
+        choices: ['HTML5', 'CSS3', 'JavaScript', 'Bootstrap', 'jQuery', 'Node.js', 'Express.js', 'React']
     },
     {
         type: 'input',
@@ -55,7 +55,7 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'What does the user need to know about using the repo?'
+        message: 'Show users how to use your app. Can you provide an image/gif(path) demonstrating its functionality?'
     },
     {
         type: 'input',
@@ -85,9 +85,3 @@ function init() {
 
 // function call to initialize program
 init();
-
-// {
-//     type: '',
-//     name: '',
-//     message:
-// },
